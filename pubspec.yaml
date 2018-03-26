@@ -1,8 +1,8 @@
 name: series_plot
-description: An absolute bare-bones web app.
+description: Demo application showcasing plotting and visualization of Grizzly Series
 version: 0.0.1
-#homepage: https://www.example.com
-#author: teja <email@example.com>
+homepage: https://github.com/tejainece/series_plot
+author: Ravi Teja Gudapati <tejainece@gmail.com>
 
 environment:
   sdk: '>=1.20.1 <2.0.0'
